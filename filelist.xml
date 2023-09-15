@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Ukrainian localization" modversion="1.0" corepackage="False" steamworkshopid="3035526065" gameversion="1.0.21.0">
+  <Text file="%ModDir%/Texts/UkrainianVanilla.xml" />
+  <Text file="%ModDir%/Texts/UkrainianVanillaEditorTexts.xml" />
+  <Text file="%ModDir%/Texts/UkrainianVanillaFactions.xml" />
+  <Text file="%ModDir%/Texts/UkrainianVanillaEndgame.xml" />
+  <Text file="%ModDir%/Texts/UkrainianVanillaEditorTexts.xml" />
+  <Text file="%ModDir%/Texts/UkrainianVanillaNew.xml" />
+  <NPCConversations file="%ModDir%/NpcConversations/NpcConversations_Ukrainian.xml" />
+</contentpackage>
