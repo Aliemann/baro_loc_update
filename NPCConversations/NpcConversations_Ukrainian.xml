@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Conversations identifier="vanillaconversations" Language="Ukrainian" nowhitespace="False">
   <Conversation line="Гаразд, народ, поїхали!" speaker="0" flags="Initial" allowedjobs="captain">
     <Conversation line="" speaker="0"></Conversation>
@@ -47,7 +47,7 @@
       <Conversation line="Трясця! Ми всі помремо!" speaker="2" speakertags="crazy"></Conversation>
     </Conversation>
   </Conversation>
-  <Conversation line="I'm cold." speaker="0" maxintensity="0.4"></Conversation>
+  <Conversation line="Мені холодно." speaker="0" maxintensity="0.4"></Conversation>
   <Conversation line="У мене погане передчуття..." speaker="0" speakertags="fearful" maxintensity="0.4">
     <Conversation line="Я знав одного старого капітана, який колись казав..." speaker="1" speakertags="professional,tough">
       <Conversation line="Ви не взмозі вгамувати шторм, тож припиніть спроби." speaker="1">
@@ -368,36 +368,36 @@
       <Conversation line="*зідхнув*" speaker="1"></Conversation>
     </Conversation>
   </Conversation>
-  <Conversation line="This is going to be a rough ride." speaker="0" minintensity="0.3" maxintensity="0.5"></Conversation>
-  <Conversation line="This is getting tense." speaker="0" minintensity="0.3" maxintensity="0.6"></Conversation>
-  <Conversation line="We can do this." speaker="0" minintensity="0.3"></Conversation>
-  <Conversation line="Finally some action!" speaker="0" speakertags="tough" minintensity="0.3"></Conversation>
-  <Conversation line="Her work has begun!" speaker="0" speakertags="crazy" minintensity="0.3" maxintensity="0.6"></Conversation>
-  <Conversation line="Uh-oh." speaker="0" minintensity="0.5"></Conversation>
-  <Conversation line="Just a setback!" speaker="0" speakertags="tough" minintensity="0.5"></Conversation>
-  <Conversation line="How quickly the tide turns." speaker="0" minintensity="0.5"></Conversation>
-  <Conversation line="This bad!" speaker="0" speakertags="brokenenglish" minintensity="0.5"></Conversation>
-  <Conversation line="No good!" speaker="0" speakertags="brokenenglish" minintensity="0.5"></Conversation>
-  <Conversation line="Join the fleet, they said! It'll be an exciting experience, they said!" speaker="0" speakertags="joker" minintensity="0.5"></Conversation>
-  <Conversation line="I'm gonna need a drink after this!" speaker="0" speakertags="joker,laid-back" minintensity="0.5"></Conversation>
-  <Conversation line="All right crew, show me what you've got!" speaker="0" allowedjobs="captain" speakertags="professional,tough,laid-back" minintensity="0.5"></Conversation>
-  <Conversation line="We're not out of the woods yet!" speaker="0" allowedjobs="captain" minintensity="0.5"></Conversation>
-  <Conversation line="I don't want to die!" speaker="0" speakertags="fearful" minintensity="0.6"></Conversation>
-  <Conversation line="Should've become a botanist instead!" speaker="0" speakertags="joker" minintensity="0.6"></Conversation>
+  <Conversation line="Схоже, що ця поїздка буде жорсткою." speaker="0" minintensity="0.3" maxintensity="0.5"></Conversation>
+  <Conversation line="Ситуація стає напружливою." speaker="0" minintensity="0.3" maxintensity="0.6"></Conversation>
+  <Conversation line="Ми впораємося." speaker="0" minintensity="0.3"></Conversation>
+  <Conversation line="Нарешті, хоч трохи цікавіше!" speaker="0" speakertags="tough" minintensity="0.3"></Conversation>
+  <Conversation line="Вона запрацювала!" speaker="0" speakertags="crazy" minintensity="0.3" maxintensity="0.6"></Conversation>
+  <Conversation line="Ой-йой." speaker="0" minintensity="0.5"></Conversation>
+  <Conversation line="Всього-лиш невеликі труднощі!" speaker="0" speakertags="tough" minintensity="0.5"></Conversation>
+  <Conversation line="Як швидко змінився настрій." speaker="0" minintensity="0.5"></Conversation>
+  <Conversation line="Це погано!" speaker="0" speakertags="brokenenglish" minintensity="0.5"></Conversation>
+  <Conversation line="Не добре!" speaker="0" speakertags="brokenenglish" minintensity="0.5"></Conversation>
+  <Conversation line="Долучись до флоту - казали вони! Це буде цікавий досвід - казали вони!" speaker="0" speakertags="joker" minintensity="0.5"></Conversation>
+  <Conversation line="Мені слід напитися після усього цього!" speaker="0" speakertags="joker,laid-back" minintensity="0.5"></Conversation>
+  <Conversation line="Гаразд, екіпаже, покажіть на що ви здатні!" speaker="0" allowedjobs="captain" speakertags="professional,tough,laid-back" minintensity="0.5"></Conversation>
+  <Conversation line="Ми ще не вилізли з цієї халепи!" speaker="0" allowedjobs="captain" minintensity="0.5"></Conversation>
+  <Conversation line="Я не хочу помирати!" speaker="0" speakertags="fearful" minintensity="0.6"></Conversation>
+  <Conversation line="Слід було стати ботаніком натомість!" speaker="0" speakertags="joker" minintensity="0.6"></Conversation>
   <Conversation line="Тримайтеся. Разом ми впораємся!" speaker="0" speakertags="tough" minintensity="0.6">
     <Conversation line="Впевнений?" speaker="1" speakertags="fearful"></Conversation>
   </Conversation>
-  <Conversation line="I'm done with this shit!" speaker="0" speakertags="rude" minintensity="0.6"></Conversation>
+  <Conversation line="Годі з мене цього лайна!" speaker="0" speakertags="rude" minintensity="0.6"></Conversation>
   <Conversation line="Якщо я не виживу, скажи моїй мамі, що я її люблю!" speaker="0" speakertags="fearful" minintensity="0.6">
-    <Conversation line="Заткни пельку!" speaker="1" speakertags="rude"></Conversation>
+    <Conversation line="Стули пельку!" speaker="1" speakertags="rude"></Conversation>
     <Conversation line="Не переймайся! Впораємося!" speaker="1" speakertags="professional"></Conversation>
   </Conversation>
-  <Conversation line="If we make it out of this I'm resigning!" speaker="0" speakertags="joker,laid-back" minintensity="0.6"></Conversation>
-  <Conversation line="And so life ebbs, and her thirst is quenched..." speaker="0" speakertags="crazy" minintensity="0.7"></Conversation>
-  <Conversation line="We sure fucked up this time." speaker="0" speakertags="rude" minintensity="0.8"></Conversation>
-  <Conversation line="Oh god." speaker="0" minintensity="0.8"></Conversation>
-  <Conversation line="Oh boy." speaker="0" speakertags="joker" minintensity="0.8"></Conversation>
-  <Conversation line="It was an honor serving with you guys." speaker="0" speakertags="professional" minintensity="0.8"></Conversation>
+  <Conversation line="Якщо ми вийдемо сухими з цієї води, я звільняюсь!" speaker="0" speakertags="joker,laid-back" minintensity="0.6"></Conversation>
+  <Conversation line="І ось - життя згасає, і спрага її вгамована..." speaker="0" speakertags="crazy" minintensity="0.7"></Conversation>
+  <Conversation line="Ми добряче проїбалися цього разу." speaker="0" speakertags="rude" minintensity="0.8"></Conversation>
+  <Conversation line="О боже." speaker="0" minintensity="0.8"></Conversation>
+  <Conversation line="Ой, леле." speaker="0" speakertags="joker" minintensity="0.8"></Conversation>
+  <Conversation line="Це була честь служити з вами, хлопці." speaker="0" speakertags="professional" minintensity="0.8"></Conversation>
   <Conversation line="Мені завжди було незручно на такій глибині." speaker="0" flags="SubmarineDeep">
     <Conversation line="" speaker="0" flags="Casual"></Conversation>
     <Conversation line="Все буде добре. Ми були й глибше." speaker="1" speakertags="tough"></Conversation>
@@ -412,10 +412,10 @@
     <Conversation line="Ми впораємось. Ця крихітка була й глибше." speaker="1" speakertags="tough"></Conversation>
     <Conversation line="Все буде добре. Проте тримайте зварювальники напоготові." speaker="1"></Conversation>
   </Conversation>
-  <Conversation line="I'm feeling faint." speaker="0" flags="Bloodloss"></Conversation>
-  <Conversation line="I'm not feeling too good." speaker="0" flags="Bloodloss"></Conversation>
-  <Conversation line="I think I need some blood plasma." speaker="0" flags="Bloodloss"></Conversation>
-  <Conversation line="Burp" speaker="0" flags="DrunkMedium"></Conversation>
+  <Conversation line="Я втрачаю свідомість." speaker="0" flags="Bloodloss"></Conversation>
+  <Conversation line="Щось мені не добре." speaker="0" flags="Bloodloss"></Conversation>
+  <Conversation line="Думаю мені бракує плазми крові." speaker="0" flags="Bloodloss"></Conversation>
+  <Conversation line="Гик" speaker="0" flags="DrunkMedium"></Conversation>
   <Conversation line="Я не часто кажу це, але ви, найкращі." speaker="0" flags="DrunkMedium">
     <Conversation line="Кращого екіпажу годі й бажати!" speaker="0" flags="DrunkMedium">
       <Conversation line="Ти п'яний?" speaker="1" flags="DrunkMedium">
@@ -425,8 +425,8 @@
       </Conversation>
     </Conversation>
   </Conversation>
-  <Conversation line="Hehe..." speaker="0" flags="DrunkMedium"></Conversation>
-  <Conversation line="You lissen to me... Werr gonna make it out of this!" speaker="0" flags="DrunkMedium" minintensity="0.5"></Conversation>
+  <Conversation line="Хе-хе..." speaker="0" flags="DrunkMedium"></Conversation>
+  <Conversation line="Послухайте мене... Миии прорвемося звідси!" speaker="0" flags="DrunkMedium" minintensity="0.5"></Conversation>
   <Conversation line="Мені варто полежати..." speaker="0" flags="DrunkHigh">
     <Conversation line="О, до біса. Тримайся подалі, поки не протверезієш." speaker="1" speakertags="professional,tough,rude"></Conversation>
     <Conversation line="" speaker="0"></Conversation>
@@ -445,15 +445,15 @@
     <Conversation line="Зберіться!" speaker="1"></Conversation>
     <Conversation line="" speaker="0"></Conversation>
   </Conversation>
-  <Conversation line="I don't feel too good." speaker="0" flags="OpiateWithdrawalLow"></Conversation>
-  <Conversation line="I feel nauseous..." speaker="0" flags="OpiateWithdrawalLow"></Conversation>
+  <Conversation line="Щось я не добре почуваюся." speaker="0" flags="OpiateWithdrawalLow"></Conversation>
+  <Conversation line="Мене нудить..." speaker="0" flags="OpiateWithdrawalLow"></Conversation>
   <Conversation line="Мене вбиває нога. Чи можу я отримати трохи морфію?" speaker="0" flags="OpiateWithdrawalMedium">
     <Conversation line="З твоєю ногою все гаразд. Гадаю, тобі варто на деякий час скоротити вживання морфіну." speaker="1" allowedjobs="medicaldoctor"></Conversation>
     <Conversation line="З твоєю ногою все гаразд, торчок." speaker="1" speakertags="rude"></Conversation>
   </Conversation>
-  <Conversation line="I can't do this." speaker="0" flags="OpiateWithdrawalMedium"></Conversation>
-  <Conversation line="I think I'm going to throw up." speaker="0" flags="OpiateWithdrawalMedium"></Conversation>
-  <Conversation line="I shouldn't be here. I want to go home." speaker="0" flags="OpiateWithdrawalMedium"></Conversation>
+  <Conversation line="Я більше не можу." speaker="0" flags="OpiateWithdrawalMedium"></Conversation>
+  <Conversation line="Здається, мене зараз вирве." speaker="0" flags="OpiateWithdrawalMedium"></Conversation>
+  <Conversation line="Я не маю тут бути. Я хочу додому." speaker="0" flags="OpiateWithdrawalMedium"></Conversation>
   <Conversation line="Я відчуваю, що вмираю! Я не можу нічого з цим зробити!" speaker="0" flags="OpiateWithdrawalHigh">
     <Conversation line="Я думаю, вам варто зробити укол налоксону." speaker="1" allowedjobs="medicaldoctor"></Conversation>
     <Conversation line="Невже." speaker="1" speakertags="rude"></Conversation>
@@ -498,8 +498,8 @@
       <Conversation line="Мої м’язи зводить судоми, а серце ось-ось розірветься! Я більше так не можу!" speaker="0"></Conversation>
     </Conversation>
   </Conversation>
-  <Conversation line="I've been shot! Get me some bandages!" speaker="0" flags="GunshotWound"></Conversation>
-  <Conversation line="Help, I've been shot!" speaker="0" flags="GunshotWound"></Conversation>
+  <Conversation line="Мене продірявили! Дайте мені бинтів!" speaker="0" flags="GunshotWound"></Conversation>
+  <Conversation line="Допоможіть, мене підстрелили!" speaker="0" flags="GunshotWound"></Conversation>
   <Conversation line="Привіт, моряки!" speaker="0" flags="EnterEndOutpost" allowedjobs="watchman">
     <Conversation line="Решта форпосту будується, але він буде готовим вже через кілька місяців!" speaker="0">
       <Conversation line="Проте я можу показати вам список товарів, які ми продаємо, і людей, які шукають роботу." speaker="0">
@@ -514,8 +514,8 @@
       </Conversation>
     </Conversation>
   </Conversation>
-  <Conversation line="Can I put all my annoying problems inside a decoy?" speaker="0"></Conversation>
-  <Conversation line="Do you ever feel...flat?" speaker="0"></Conversation>
+  <Conversation line="Чи можна я складу усі мої проблеми всередину приманки?" speaker="0"></Conversation>
+  <Conversation line="Ви коли-небудь почувалися...пласкими?" speaker="0"></Conversation>
   <Conversation line="Як мовлять: «таламусес» чи «таламі»?" speaker="0">
     <Conversation line="Сподіваюся, що їх не буде більше одного одразу." speaker="1"></Conversation>
     <Conversation line="Ех, зовсім зіпсував мені весь настрій." speaker="1"></Conversation>
@@ -535,14 +535,14 @@
     <Conversation line="Знаєш, уран не росте на деревах." speaker="1" flags="OutpostNPC"></Conversation>
     <Conversation line="Вдягни іншу куртку і перестань скаржитися." speaker="1" flags="OutpostNPC"></Conversation>
   </Conversation>
-  <Conversation line="Did a thresher eat your crew? Looking for fresh hires? Look no further!" speaker="0" flags="OutpostNPC,CampaignNPC.Crew"></Conversation>
-  <Conversation line="Need some new crew? Experienced, expendable, whatever you need I've got you covered!" speaker="0" flags="OutpostNPC,CampaignNPC.Crew"></Conversation>
-  <Conversation line="Зачекайте, будь ласка. Твоя смерть важлива для нас, і молох незабаром буде з тобою." speaker="0" flags="OutpostNPC,CampaignNPC.Crew">
+  <Conversation line="Молотар зжер ваш екіпаж? Шукаєте свіжих працівників? Ви за адресою!" speaker="0" flags="OutpostNPC,CampaignNPC.Crew"></Conversation>
+  <Conversation line="Потрібен новий екіпаж? Досвічені працівники, розхідний матеріал, що б вам не було потрібно, у мене все знайдеться!" speaker="0" flags="OutpostNPC,CampaignNPC.Crew"></Conversation>
+  <Conversation line="Зачекайте, будь ласка. Ваша смерть важлива для нас, і молох незабаром буде з вами." speaker="0" flags="OutpostNPC,CampaignNPC.Crew">
     <Conversation line="Що?" speaker="1">
       <Conversation line="Ах, вибачте, я мав на увазі: «будь ласка, зачекайте своєї черги»." speaker="0"></Conversation>
     </Conversation>
   </Conversation>
-  <Conversation line="Коли-небудь пробував плазу-смак?" speaker="0" flags="OutpostNPC">
+  <Conversation line="Коли-небудь куштував плазу-смак?" speaker="0" flags="OutpostNPC">
     <Conversation line="Коли я працював помічником, це було все, що я міг собі дозволити. Сподіваюся, що більше ніколи не торкнуся цього лайна." speaker="1" flags="OutpostNPC">
       <Conversation line="Не знаю, наприклад мені він подобається. Хоча випадкові кігті та очі в ньому трохи бентежать." speaker="0"></Conversation>
     </Conversation>
@@ -706,14 +706,14 @@
       </Conversation>
     </Conversation>
   </Conversation>
-  <Conversation line="I think all molochs are friendly and only want to hug cute subs." speaker="0" flags="OutpostNPC" speakertags="crazy"></Conversation>
-  <Conversation line="I personally welcome all octopus-like creature overlords." speaker="0" flags="OutpostNPC" speakertags="crazy"></Conversation>
-  <Conversation line="The water sure is cloudy today." speaker="0" flags="OutpostNPC"></Conversation>
-  <Conversation line="The weather's so nice today. No currents, clear waters... I might go poppy picking later." speaker="0" flags="OutpostNPC"></Conversation>
-  <Conversation line="Do you ever wonder who first thought to use a screwdriver as a shiv?" speaker="0" flags="OutpostNPC"></Conversation>
-  <Conversation line="What do I have to do to get transferred out of here?" speaker="0" flags="OutpostNPC"></Conversation>
-  <Conversation line="Station life is dull but I’ll take it over going out on a sub any day." speaker="0" flags="OutpostNPC"></Conversation>
-  <Conversation line="I wonder what the canteen vending machine will be serving today." speaker="0" flags="OutpostNPC"></Conversation>
+  <Conversation line="Гадаю, усі молохи дружні і просто хочуть пообіймати миленькі човни." speaker="0" flags="OutpostNPC" speakertags="crazy"></Conversation>
+  <Conversation line="Я, власне, поважаю усіх кальмаро-подібних створінь-повелителів." speaker="0" flags="OutpostNPC" speakertags="crazy"></Conversation>
+  <Conversation line="Вода вельми каламутна сьогодні." speaker="0" flags="OutpostNPC"></Conversation>
+  <Conversation line="Погода сьогодні чудова. Нема течій, чисті води... Можливо, піду збирати мак сьогодні." speaker="0" flags="OutpostNPC"></Conversation>
+  <Conversation line="Ти коли-небудь задумувався, хто перший придумав використовувати викрутку як зброю?" speaker="0" flags="OutpostNPC"></Conversation>
+  <Conversation line="Що мені зробити, щоб забратися звідси?" speaker="0" flags="OutpostNPC"></Conversation>
+  <Conversation line="Життя на станції нудне, але я стараюсь зробити його веселішим, деколи відчалючи на своєму човні." speaker="0" flags="OutpostNPC"></Conversation>
+  <Conversation line="Цікаво який торговий автомат працюватиме сьогодні." speaker="0" flags="OutpostNPC"></Conversation>
   <Conversation line="Смажений молотар чи мені здається?" speaker="0" flags="OutpostNPC">
     <Conversation line="Ймовірно, хтось знову перевантажує мережу." speaker="1"></Conversation>
     <Conversation line="" speaker="1"></Conversation>
@@ -726,36 +726,36 @@
       <Conversation line="На превеликий жаль, його вже нема з нами. Можливо, він був надто сміливим." speaker="0"></Conversation>
     </Conversation>
   </Conversation>
-  <Conversation line="Nice to see a friendly face! We don't get too many visitors around these parts." speaker="0" flags="EnterOutpost,OutpostNPC"></Conversation>
-  <Conversation line="Oh, we've got visitors again." speaker="0" flags="EnterOutpost,OutpostNPC"></Conversation>
-  <Conversation line="Hi there!" speaker="0" flags="EnterOutpost,OutpostNPC"></Conversation>
-  <Conversation line="Hello there! You look like you've had a rough trip." speaker="0" flags="EnterOutpost,OutpostNPC"></Conversation>
-  <Conversation line="Hello! Welcome to our humble abode." speaker="0" flags="EnterOutpost,OutpostNPC"></Conversation>
-  <Conversation line="You people look like you could use some rest." speaker="0" flags="EnterOutpost,OutpostNPC"></Conversation>
-  <Conversation line="I haven't seen you people before." speaker="0" flags="EnterOutpost,OutpostNPC"></Conversation>
-  <Conversation line="That's a pretty sub you've got down there!" speaker="0" flags="EnterOutpost,OutpostNPC"></Conversation>
-  <Conversation line="I hope you people aren't planning on staying for long. Got enough problems down here as it is." speaker="0" flags="EnterOutpost,OutpostNPC" speakertags="rude"></Conversation>
-  <Conversation line="Hello there. I hope you won't cause any trouble." speaker="0" flags="EnterOutpost,OutpostNPC" speakertags="fearful"></Conversation>
-  <Conversation line="I'll be keeping an eye on you." speaker="0" flags="EnterOutpost,OutpostNPC" allowedjobs="securityofficer"></Conversation>
-  <Conversation line="Don't cause any trouble." speaker="0" flags="EnterOutpost,OutpostNPC" allowedjobs="securityofficer"></Conversation>
-  <Conversation line="Hey, you! Get the hell out of here!" speaker="0" flags="EnterOutpost,LowReputation,OutpostNPC"></Conversation>
-  <Conversation line="You people aren't welcome here." speaker="0" flags="EnterOutpost,LowReputation,OutpostNPC"></Conversation>
-  <Conversation line="Some nerve you have, showing your face here again." speaker="0" flags="EnterOutpost,LowReputation,OutpostNPC"></Conversation>
-  <Conversation line="You shouldn't have come here..." speaker="0" flags="EnterOutpost,LowReputation,OutpostNPC"></Conversation>
-  <Conversation line="Always nice to see you people!" speaker="0" flags="EnterOutpost,HighReputation,OutpostNPC"></Conversation>
-  <Conversation line="Ah, it's you! Welcome!" speaker="0" flags="EnterOutpost,HighReputation,OutpostNPC"></Conversation>
-  <Conversation line="Hello! Glad to see you here." speaker="0" flags="EnterOutpost,HighReputation,OutpostNPC"></Conversation>
-  <Conversation line="Please, let me go!" speaker="0" flags="Hostage"></Conversation>
-  <Conversation line="I can't take this anymore!" speaker="0" flags="Hostage"></Conversation>
-  <Conversation line="I need to get out of here... I'm begging you!" speaker="0" flags="Hostage"></Conversation>
-  <Conversation line="Let's make a deal, let me go and I won't tell anyone what you guys are doing here!" speaker="0" flags="Hostage"></Conversation>
-  <Conversation line="I'm not going to make it out of here alive, am I?" speaker="0" flags="Hostage"></Conversation>
-  <Conversation line="You picked the wrong outpost to dock at, pal..." speaker="0" flags="EnterOutpost,Bandit"></Conversation>
-  <Conversation line="That sub you've got down there looks damn fine... I think we'll keep it!" speaker="0" flags="EnterOutpost,Bandit"></Conversation>
-  <Conversation line="Ahh, fresh meat!" speaker="0" flags="EnterOutpost,Bandit"></Conversation>
-  <Conversation line="This place belongs to us now, and we don't take kindly to trespassers..." speaker="0" flags="EnterOutpost,Bandit"></Conversation>
-  <Conversation line="Intruders!" speaker="0" flags="EnterOutpost,Bandit"></Conversation>
-  <Conversation line="You should have stayed away!" speaker="0" flags="EnterOutpost,Bandit"></Conversation>
+  <Conversation line="Приємно бачити дружнє обличчя! У нас не багато гостів в цих місцях." speaker="0" flags="EnterOutpost,OutpostNPC"></Conversation>
+  <Conversation line="Ох, у нас знову гості." speaker="0" flags="EnterOutpost,OutpostNPC"></Conversation>
+  <Conversation line="Привітики!" speaker="0" flags="EnterOutpost,OutpostNPC"></Conversation>
+  <Conversation line="Вітання! Судячи по вашим обличчях, у вас була жорстка поїздка." speaker="0" flags="EnterOutpost,OutpostNPC"></Conversation>
+  <Conversation line="Вітаю! Ласкаво просимо до нашої скромної оселі." speaker="0" flags="EnterOutpost,OutpostNPC"></Conversation>
+  <Conversation line="Ви виглядаєте так, наче вам слід трошки перепочити." speaker="0" flags="EnterOutpost,OutpostNPC"></Conversation>
+  <Conversation line="Я вас ніколи ще тут не бачив." speaker="0" flags="EnterOutpost,OutpostNPC"></Conversation>
+  <Conversation line="Оце у вас файненький човен!" speaker="0" flags="EnterOutpost,OutpostNPC"></Conversation>
+  <Conversation line="Сподіваюсь ви не залишитеся тут надовго. І без вас клопоту вистачає." speaker="0" flags="EnterOutpost,OutpostNPC" speakertags="rude"></Conversation>
+  <Conversation line="Вітаю. Сподіваюсь ви не складатимете неприємностей." speaker="0" flags="EnterOutpost,OutpostNPC" speakertags="fearful"></Conversation>
+  <Conversation line="Я за вами слідкую." speaker="0" flags="EnterOutpost,OutpostNPC" allowedjobs="securityofficer"></Conversation>
+  <Conversation line="Не робіть неприємностей." speaker="0" flags="EnterOutpost,OutpostNPC" allowedjobs="securityofficer"></Conversation>
+  <Conversation line="Гей, ви! Забирайтеся звідси!" speaker="0" flags="EnterOutpost,LowReputation,OutpostNPC"></Conversation>
+  <Conversation line="Вам тут не місце." speaker="0" flags="EnterOutpost,LowReputation,OutpostNPC"></Conversation>
+  <Conversation line="Схоже, вам вистачає сміливості, показуватися тут знову." speaker="0" flags="EnterOutpost,LowReputation,OutpostNPC"></Conversation>
+  <Conversation line="Не слід вам було вертатися..." speaker="0" flags="EnterOutpost,LowReputation,OutpostNPC"></Conversation>
+  <Conversation line="Завжди раді вас тут бачити!" speaker="0" flags="EnterOutpost,HighReputation,OutpostNPC"></Conversation>
+  <Conversation line="Ах, це ви! Вітаємо!" speaker="0" flags="EnterOutpost,HighReputation,OutpostNPC"></Conversation>
+  <Conversation line="Вітаємо! Раді вас тут знову бачити." speaker="0" flags="EnterOutpost,HighReputation,OutpostNPC"></Conversation>
+  <Conversation line="Будь ласка, відпустіть мене!" speaker="0" flags="Hostage"></Conversation>
+  <Conversation line="Я більше не можу!" speaker="0" flags="Hostage"></Conversation>
+  <Conversation line="Мені треба залишити це місце... Благаю вас!" speaker="0" flags="Hostage"></Conversation>
+  <Conversation line="Гайда домовимося, відпустіть мене і я не скажу нікому чим ви тут займаєтеся!" speaker="0" flags="Hostage"></Conversation>
+  <Conversation line="Я не переживу усього цього, чи не так?" speaker="0" flags="Hostage"></Conversation>
+  <Conversation line="Ти обрав не ту станцію, друже..." speaker="0" flags="EnterOutpost,Bandit"></Conversation>
+  <Conversation line="Цей човен такий вельми файненький... Думаю, ми його залишимо собі!" speaker="0" flags="EnterOutpost,Bandit"></Conversation>
+  <Conversation line="Ахх, свіжа плоть!" speaker="0" flags="EnterOutpost,Bandit"></Conversation>
+  <Conversation line="Це місце тепер належить нам, а ми не дуже добре ставимося до порушників..." speaker="0" flags="EnterOutpost,Bandit"></Conversation>
+  <Conversation line="Порушники!" speaker="0" flags="EnterOutpost,Bandit"></Conversation>
+  <Conversation line="Слід було залишатися осторонь!" speaker="0" flags="EnterOutpost,Bandit"></Conversation>
   <Conversation line="Я щось почув, здається." speaker="0" flags="Bandit">
     <Conversation line="Мабуть, просто вітер." speaker="1" flags="Bandit">
       <Conversation line="Що за вітер?" speaker="0"></Conversation>
@@ -792,8 +792,8 @@
       </Conversation>
     </Conversation>
   </Conversation>
-  <Conversation line="I can feel the radiation prickling my skin." speaker="0" flags="InRadiation"></Conversation>
-  <Conversation line="The Jovian radiation in this area is way too strong for us to be here." speaker="0" flags="InRadiation"></Conversation>
+  <Conversation line="Почуваю, як радіація поколює мою шкіру." speaker="0" flags="InRadiation"></Conversation>
+  <Conversation line="Юпітерські сепаратисти в цьому регіоні занадто сильні, щоб ми могли там перебувати." speaker="0" flags="InRadiation"></Conversation>
   <Conversation line="У мене в роті мідний присмак і страшенно болить голова." speaker="0" flags="InRadiation">
     <Conversation line="Радіація вб'є нас, якщо ми не будемо рухатися далі." speaker="1">
       <Conversation line="Сподіваюсь, що ще не пізно..." speaker="0"></Conversation>
@@ -806,12 +806,12 @@
     </Conversation>
   </Conversation>
   <!-- New values, November 11 -->
-  <Conversation line="Who'd interrupt our experiment now...?" speaker="0" flags="EnterOutpost,HuskExtremist"></Conversation>
-  <Conversation line="A submarine? Maybe we can take it for ourselves? This experiment got a bit out of hand..." speaker="0" flags="EnterOutpost,HuskExtremist"></Conversation>
-  <Conversation line="More bodies to experiment on! One step closer..." speaker="0" flags="EnterOutpost,HuskExtremist"></Conversation>
-  <Conversation line="The way forward for humankind will originate here! Behold history being made!" speaker="0" flags="EnterOutpost,HuskExtremist"></Conversation>
-  <Conversation line="Non-believers!" speaker="0" flags="EnterOutpost,HuskExtremist"></Conversation>
-  <Conversation line="*ominous clicking sounds*" speaker="0" flags="EnterOutpost,HuskExtremist"></Conversation>
+  <Conversation line="Хто б насмілився завадити нашому експерименту...?" speaker="0" flags="EnterOutpost,HuskExtremist"></Conversation>
+  <Conversation line="Човен? Можливо, нам слід його привласнити? Цей експеримент трохи вийшов з-під контролю..." speaker="0" flags="EnterOutpost,HuskExtremist"></Conversation>
+  <Conversation line="Більше тіл для експериментів! Одним кроком ближче..." speaker="0" flags="EnterOutpost,HuskExtremist"></Conversation>
+  <Conversation line="Шлях уперед для людського роду розпочинатиметься тут! Стережіться історії, що себе будує!" speaker="0" flags="EnterOutpost,HuskExtremist"></Conversation>
+  <Conversation line="Невіруючі!" speaker="0" flags="EnterOutpost,HuskExtremist"></Conversation>
+  <Conversation line="*зловісні звуки клацання" speaker="0" flags="EnterOutpost,HuskExtremist"></Conversation>
   <Conversation line="Чули?" speaker="0" flags="HuskExtremist">
     <Conversation line="Хаск у тебе в горлі? Хаск у мене в горлі? Хаск у коридорі?" speaker="1" flags="HuskExtremist">
       <Conversation line="*зловісні веселі клацання*" speaker="0"></Conversation>
@@ -821,7 +821,7 @@
     </Conversation>
   </Conversation>
   <Conversation line="Як назвав паразита?" speaker="0" flags="HuskExtremist">
-    <Conversation line="Симбіонт, недоумок." speaker="1" flags="HuskExtremist">
+    <Conversation line="Симбіонт, недоумку." speaker="1" flags="HuskExtremist">
       <Conversation line="Дивне ім'я." speaker="0"></Conversation>
     </Conversation>
     <Conversation line="Симбіонт. Ти дав ім'я симбіонту? Я вважаю свого, як частиною себе..." speaker="1" flags="HuskExtremist">
@@ -833,7 +833,7 @@
     </Conversation>
   </Conversation>
   <Conversation line="Чому саме Юпітер? Чому не Ювітер? Хто такий, в біса, Юпітер?" speaker="0" maxintensity="0.2">
-    <Conversation line="Якщо мені не зраджує пам’ять, це якийсь стародавній бог, якого люди асоціювали з Юпітером на Землі." speaker="1" speakertags="professional"></Conversation>
+    <Conversation line="Якщо мене не зраджує пам’ять, це якийсь стародавній бог, якого люди асоціювали з Юпітером на Землі." speaker="1" speakertags="professional"></Conversation>
     <Conversation line="" speaker="1"></Conversation>
   </Conversation>
   <Conversation line="Як думаєте, що в центрі?" speaker="0" maxintensity="0.2">
@@ -855,8 +855,8 @@
       </Conversation>
     </Conversation>
   </Conversation>
-  <Conversation line="We should've never come this far." speaker="0" flags="EndLevel"></Conversation>
-  <Conversation line="Where the hell are we?" speaker="0" flags="EndLevel"></Conversation>
+  <Conversation line="Нам не слід було заходити так далеко." speaker="0" flags="EndLevel"></Conversation>
+  <Conversation line="Де, в біса, ми знаходимося?" speaker="0" flags="EndLevel"></Conversation>
   <Conversation line="Зовні гримить? Грім... під льодом? Як це працює?" speaker="0" flags="EndLevel">
     <Conversation line="Я не впевнений, що ми нині перебуваємо під льодом. Я навіть не впевнений, що ми в Європі." speaker="1"></Conversation>
   </Conversation>
